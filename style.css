@@ -1,0 +1,12 @@
+body{
+    background-color: #2f3035;
+    background-image: url(assets/splashbg.jpg);
+    background-size: cover;
+}
+.logo{    
+    width: 500px;
+    height: auto;
+}
+.button{
+    background-color: #313f8385;
+}
